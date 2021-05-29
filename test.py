@@ -1,3 +1,3 @@
 for i in range(10):
-    if i >=5:
-        print ('himansu')
+    if i <=5:
+        print ('brhera')
