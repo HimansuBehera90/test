@@ -1,2 +1,3 @@
 for i in range(10):
-    print ('himansu')
+    if i >=5:
+        print ('himansu')
